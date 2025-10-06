@@ -1,2 +1,2 @@
 # demo
-Aithor:Keshvi Amlani
+Author:Keshvi Amlani
